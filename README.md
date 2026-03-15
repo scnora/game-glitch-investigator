@@ -36,7 +36,12 @@ I applied my fixes into my app.py file where I made sure to see the logic behind
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+<img src="images/negative.png">
+<img src="images/decimal.png">
+<img src="images/higher.png">
+<img src="images/lower.png">
+<img src="images/correct.png">
+
 
 ## 🚀 Stretch Features
 
