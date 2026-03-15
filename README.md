@@ -26,8 +26,13 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+The game is a simple number guessing game, where users guess a number between 1 and 100 to figure out what the secret number is. Users have 8 guesses to find out what the secret number is.
 - [ ] Detail which bugs you found.
+
+Some bugs I found where the hints printed out each guess were incorrect. The game was also accepting values like negative, leading 0s, and decimals which shouldn't be allowed. The new game button was also not working. 
+
 - [ ] Explain what fixes you applied.
+I applied my fixes into my app.py file where I made sure to see the logic behind each line and make sure each button is going each task correctly. 
 
 ## 📸 Demo
 
